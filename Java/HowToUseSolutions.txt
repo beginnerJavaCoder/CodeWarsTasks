@@ -1,0 +1,11 @@
+If you want to run any solution placed here, you need to rename source file you are interested in.
+It happens because all source files were named as their tasks, but Java compare names of source file and its public class name.
+
+You can rename the source file into the name of the public class, for example:
+ReturnNegative.java -> Kata.java
+
+You can also rename the public class like a source filename:
+public class Kata -> public class ReturnNegative
+
+And finally you can copy the code inside class and use its in your own test class. 
+Enjoy it!
