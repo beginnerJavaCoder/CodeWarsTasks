@@ -8,4 +8,5 @@ You can also rename the public class like a source filename:
 public class Kata -> public class ReturnNegative
 
 And finally you can copy the code inside class and use its in your own test class. 
+
 Enjoy it!
